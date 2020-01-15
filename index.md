@@ -1,91 +1,100 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Radomir Simić's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Radomir Simić 
+Team lead, Developer, Head of the IT department.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+- E-mail:           [radomir.simic@gmail.com](mailto:radomir.simic@gmail.com)
+- LinkedIn:         [https://www.linkedin.com/in/radomir-simić-838387144/](https://www.linkedin.com/in/radomir-simi%C4%87-838387144/)
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior .NET software developer at [Levi9](https://www.linkedin.com/company/levi9serbia/) 
 
-### Specialized in
+## Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- **Javascript/Typescript** (React, React Native, Redux, Ionic, Angular, HTML, CSS)  
+- **.NET/.NET Core** (C#, WinForms, WPF, WCF, ASP. NET, SignalR)  
+- **Java** (Spring, JSF, JSP)  
+- **SQL** (SQL Server, PostgreSQL, SQLite)
+- **Git**
 
+### Experience
 
-### Research interests
+- 2018 - ...  Full stack senior developer at Levi9 Global Sourcing
+- 2018 - 2019 Senior Software developer at Ximedes
+- 2017 – 2018 Senior software developer at Levi9 Technology Services
+- 2016 – 2017 Medior software developer at Levi9 Global Sourcing
+- 2002 - 2017 Head of IT department Republic Health Fund, branch in Sombor
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Projects  
+  
+- Hybrid React Native mobile application that offers its users the ability to listen to their
+favorite radio stations, watch podcasts and chat with program hosts. Complex UI with multiple
+themes and layouts aimed to deliver the best possible experience for users. Integration with 3rd
+party libraries via native bridges and unit tests with high coverage using Jest and Enzyme.
+Delivering 4 unique applications with one code base. Sky Radio: Android, iOS; Radio 10: Android,
+iOS; Radio 538: Android, iOS; Radio Veronica: Android, iOS React Native, Javascript, Kotlin,
+Swift, Visual Studio Code, Android Studio, Swift.  
+- Hybrid mobile application that displays corporate news, sorted by categories and date, searchable
+corporate contacts and job vacancies. NodeJS based REST backend, serves as a unification endpoint
+for varying backend services. Ionic 4, Angular 7, Typescript, Cordova, NodeJS, Visual Studio
+Code.  
+- Large Java codebase, consisting of multiple subprojects as a backend andJSF/Primefaces frontend.
+Complex SOAP interface for various clients. Primarily an administration tool for specialized card
+readers that control vending machines, payments and enable access to various entry points based
+on timeschedule via cards... Data storage in PostgreSQL or MSSQL instance, cloud or local. Java
+SE, EE, JSF, Spring, Maven, Tomcat, Liquibase, PostgreSQL/MSSQL, IntelliJ.
+- Electron based responsive GUI frontend for ticket vending machines. Served as a template for
+vendors and their future commercial GUI implementations. First iteration in ES2015 JavaScript,
+HTML and CSS based per project owner request. Communicates with the C Backend via REST API and
+Web Sockets. Second iteration rewrite in Typescript. HTML, CSS (Bulma),
+Typescript, JavaScript, Electron, Visual Studio Code.
+- React-Redux responsive fronted, in Typescript, featuring rich OpenStreetMap integration. Displays
+partners locations, discounts available for corporate employes. User geolocation on map with
+automatic marker clustering, search and filtering based on partner name and cities. REST WebAPI
+backend in .NET Core and SQLite as RDBMS. Authentication and authorization with Azure AD
+federation. Typescript, React, Redux, Leaflet, Webpack, C#, .NET Core 2/3, SQLite, Azure AD
+Oauth, Visual Studio Code.
+- ASP.NET MVC user interface that controls and keeps track of running diagnostic services on
+multiple server, displaying diagnostic data. Inter-service communication and control via Redis
+Pub/Sub. Push notifications realized using SignalR. Data layer based on Entity framework with
+MSSQL. C#, .NET 4, ASP .NET MVC, MSSQL, Entity Framework, Redis Pub/Sub, Visual Studio.  
+- A complex WPF graphical interface that displays relevant city traffic data. Lines and vehicles
+commuting displayed in real-time using linea,r cartographical and other views. Supports for
+themes, per user configuration and scenarios. Data and client configuration provided via a WCF
+service and its callbacks. Views displayed in a cell of a user-defined grid. Views can span
+across multiple cells and have a live drag and drop preview. Multiple views stackable in a cell
+or spanned cells container, with possibility of manual or automatic rotation of the top-level
+view. C#, .NET 4, WPF, WC, CefSharp (Chromium Embedded), Visual Studio.  
+- Windows service backned which receives SMS messages via GSM modem (USB stick) and updates all the
+connected clients via 0MQ protocol. Fronted – a fully portable WPF GUI that notifies clients of
+the new messages from tray in a way that does not interrupt their workflow. Data is stored in
+SQLite database. Server and clients use minimal serialization to transfer the messages via
+TCP/IP. Clients track server's heartbeat and reconnect automatically. NetMQ for message queuing
+and NetSerializer for serialization. C#, .NET Framework, SQLite, Visual Studio. 
+- .NET based WinForms frontend for input and editing of medical prescriptions and monthly billing
+from pharmacies to the Serbian Republic Health Fund via XML files with predefined schemas.
+Complex rule-based validation for all the prescription inputs and their mutual dependecis
+automatic online updates with validation data provided from the Fund. Data stored on a local
+SQL Server instance. NSIS installer with ability to install, uninstall and update existing
+installations. C#, .NET, MSSQL, Visual Studio.  
 
+### Education
 
-## Education
+University of Zenica, Master of Mechanical Engineering
 
-`1654-1660`
-__The King's School, Grantham.__
+### Certifications
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- [Exam 70-532](https://www.youracclaim.com/badges/ea6ac2bb-d300-4d5a-9027-bf5eeda04e5b) Developing Microsoft Azure Solutions, May 2017
+- Cisco Router Configuration Introduction @MDS
+- Linux Server Administration – Advanced Level, Java Intermediate Level, MySQL Intermediate Level @CTT
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2020 -->
 
 
