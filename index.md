@@ -3,7 +3,7 @@ layout: cv
 title: Radomir Simić's CV
 ---
 # Radomir Simić 
-Team lead, Developer, Head of the IT department.
+Team lead, Developer.
 
 - E-mail:           [radomir.simic@gmail.com](mailto:radomir.simic@gmail.com)
 - LinkedIn:         [https://www.linkedin.com/in/radomir-simić-838387144/](https://www.linkedin.com/in/radomir-simi%C4%87-838387144/)
@@ -15,7 +15,7 @@ Senior .NET software developer at [Levi9](https://www.linkedin.com/company/levi9
 
 ## Skills
 
-- **Javascript/Typescript** (React, React Native, Redux, Ionic, Angular, HTML, CSS)  
+- **Javascript/Typescript** (React, React Native, Redux, NodeJS, Ionic, Angular, HTML, CSS)  
 - **.NET/.NET Core** (C#, WinForms, WPF, WCF, ASP. NET, SignalR)  
 - **Java** (Spring, JSF, JSP)  
 - **SQL** (SQL Server, PostgreSQL, SQLite)
@@ -30,7 +30,8 @@ Senior .NET software developer at [Levi9](https://www.linkedin.com/company/levi9
 - 2002 - 2017 Head of IT department Republic Health Fund, branch in Sombor
 
 ### Projects  
-  
+- NodeJS based microservices backend, based on Express and TypeScript, deployed as set of Docker
+containerized services on AWS.
 - Hybrid React Native mobile application that offers its users the ability to listen to their
 favorite radio stations, watch podcasts and chat with program hosts. Complex UI with multiple
 themes and layouts aimed to deliver the best possible experience for users. Integration with 3rd
