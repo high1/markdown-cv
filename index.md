@@ -29,7 +29,9 @@ Senior .NET software developer at [Levi9](https://www.linkedin.com/company/levi9
 - 2016 – 2017 Medior software developer at Levi9 Global Sourcing
 - 2002 - 2017 Head of IT department Republic Health Fund, branch in Sombor
 
-### Projects  
+### Projects
+- Angular frontend, which displays information from OpenWeather API, using Angular 9, Boostrap, NGRX, and
+Marble test for NGRX effects.
 - NodeJS based microservices backend, based on Express and TypeScript, deployed as set of Docker
 containerized services on AWS.
 - Hybrid React Native mobile application that offers its users the ability to listen to their
