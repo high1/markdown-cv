@@ -31,7 +31,7 @@ Senior .NET software developer at [Levi9](https://www.linkedin.com/company/levi9
 - 2002 - 2017 Head of IT department Republic Health Fund, branch in Sombor
 
 ### Projects
-- Frontend for a customer facing site using [Next.js](https://nextjs.org/) static site generation, [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [TailwindCSS](https://tailwindcss.com/), [SWR](https://swr.vercel.app/), [PostCSS](https://postcss.org/),  [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/react/) for unit tests, deployed on AWS using S3 and Cloudfrount
+- Frontend for a customer facing site using [Next.js](https://nextjs.org/) static site generation, [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [TailwindCSS](https://tailwindcss.com/), [SWR](https://swr.vercel.app/), [PostCSS](https://postcss.org/),  [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/react/) for unit tests, [Storybook](https://storybook.js.org/) for UI components development in isolation, deployed on AWS using S3 and Cloudfrount
 - Nearshore senior frontend developer for [Backbase](https://www.backbase.com/) using Angular 8, Typescript and Bootstrap
 - Angular frontend, which displays information from OpenWeather API, using Angular 9, Boostrap, NGRX, and
 Marble test for NGRX effects.
